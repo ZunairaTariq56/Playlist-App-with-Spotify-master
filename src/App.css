@@ -1,0 +1,14 @@
+
+
+.main{
+    background-image: url("./images/nbl.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    font-family: Work Sans,sans-serif;
+    font-weight: 500;
+    height: 100%;
+    padding: 0 0% 10%;
+}
+
